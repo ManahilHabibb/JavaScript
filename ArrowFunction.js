@@ -1,3 +1,9 @@
-let age=15;
-let name=age>16?'Older':'Younger';
-console.log(name);
+const myarray=[];
+
+    myarray[0]='one';
+    myarray[1]='two';
+    myarray[2]='three';
+    
+
+
+console.log(myarray);
